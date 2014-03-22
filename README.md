@@ -1,4 +1,0 @@
-lualib
-======
-test .
-lua lib
